@@ -7,4 +7,6 @@ int a, b;
 
 cin >> a, b >> endl;
 cout << " " << a + b << endl;
+cout << " " << a - b << endl;
+cout << " " << a * b << endl;
 }
