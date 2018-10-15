@@ -1,5 +1,6 @@
 #include "stdio.h"
 using namespace std
+// программа является учебной
 int main
 {
 int a, b;
